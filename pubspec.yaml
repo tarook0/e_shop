@@ -65,4 +65,7 @@ flutter:
   assets:
     # Add all product images
     - assets/products/
-
+analayzer:
+  sreong_mode: true
+  language:
+    enableSuperMixins: true
