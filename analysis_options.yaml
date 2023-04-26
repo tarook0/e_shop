@@ -26,10 +26,12 @@ linter:
     # prefer_single_quotes: true  # Uncomment to enable the `prefer_single_quotes` rule
     - use_super_parameters
 analyzer:
-  language:
-    enableSuperMixins: true
-  errors:
-    mixin_inherits_from_not_object: ignore
+  strong-mode: true
+language:
+  enableSuperMixins: true
+
+errors:
+  mixin_inherits_from_not_object: ignore
 
 # Additional information about this file can be found at
 # https://dart.dev/guides/language/analysis-options
