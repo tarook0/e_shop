@@ -1,0 +1,1 @@
+ C:\\Users\\taroo\\OneDrive\\Desktop\\E_shop\\e_shop\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations_en.dart C:\\Users\\taroo\\OneDrive\\Desktop\\E_shop\\e_shop\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations.dart:  C:\\Users\\taroo\\OneDrive\\Desktop\\E_shop\\e_shop\\l10n.yaml C:\\Users\\taroo\\OneDrive\\Desktop\\E_shop\\e_shop\\lib/src/localization\\app_en.arb
